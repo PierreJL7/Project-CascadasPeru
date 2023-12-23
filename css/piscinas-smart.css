@@ -1,0 +1,233 @@
+.h1-titulo-piscinas{
+  background: url(../img/fondo-piscina.jpg);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 6%;
+  font-size: 40px;
+  transition: all 0.5s;
+  background-color: #f83b3b;
+  width: 100%;
+  height: 55px;
+  text-align: center;
+}
+
+.h1-titulo-piscinas:hover{
+  background: url(../img/FONDO-AZUL-MARINO.jpg);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.descripcion-piscinas{
+  text-align: center;
+  /* height: 550px; */
+  width: 70%;
+  margin: auto;
+  text-align: justify;
+  margin-top: 2rem;
+  font-size: 17px;
+  line-height: 35px;
+}
+
+.active-line-height{
+
+margin-top: 1em;
+}
+
+li{
+list-style: none;
+}
+
+.container-maestro-1{
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+  gap: 20px;
+  z-index: 0;
+  height: 750px;
+  display: flex;
+
+}
+
+.titulo-piscina-1{
+  text-align: center;
+  margin-top: 30px;
+  background: -webkit-linear-gradient(rgb(0, 153, 204),rgb(104, 186, 236));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: tomato;
+}
+
+.descripcion-piscina-promo{
+
+  margin: auto;
+  text-align: center;
+  color: black;
+  width: 50%;
+  margin-top: 10px;
+}
+
+.container-piscina-1,.container-piscina-2,.container-piscina-3{
+  margin-left: 1px;
+  margin-top: 15px;
+  height:  700px;
+  width: 100%;
+  max-width: 100%;
+  border: 2px solid rgb(66, 66, 66);
+  margin-bottom: 30px;
+  border-radius: 20px;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.img-piscina{
+  margin-top: 20px;
+  width: 100%;
+  height: 350px;
+}
+
+
+.btn{
+  display: block;
+  position: relative;
+  padding: 8px 40px;
+  text-decoration: none;
+  color: #0c0c0c;
+  letter-spacing: 2px;
+  margin-top: 15px;
+  margin: auto;
+  text-align: center;
+  font-weight: 700;
+  z-index: 0;
+}
+
+.btn-1{
+  overflow: hidden;
+  border: 3px solid #03cc57;
+  z-index: 0;
+  width: 80%;
+  margin-top: 15px;
+}
+
+
+.btn-1::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 200%;
+  left: 0;
+  top: -200%;
+  background-color: #03cc57;
+  border-radius: 50%;
+  transition: all 0.6s ease;
+  z-index: -1;
+}
+
+.btn-1:hover:before{
+  top: 0;
+  border-radius: 0%;
+}
+
+.btn-comprar{
+  color: black;
+}
+
+/*--------------------RESPONSIVE-------------*/
+/*-------------DESCRIPCION PISCINAS SMART-----------------*/
+@media (max-width: 1650px){
+
+.container-maestro-1{
+  margin-top: 5em;
+  height: 600px;
+
+}
+
+.titulo-piscina-1{
+  font-size: 22px;
+}
+
+.container-piscina-1,.container-piscina-2,.container-piscina-3{
+  height: 570px;
+  width: 40%;
+}
+
+.img-piscina{
+  margin-top: 20px;
+  width: 100%;
+  height: 250px;
+}
+
+.btn{
+  display: block;
+  position: relative;
+  padding: 8px 10px;
+  text-decoration: none;
+  color: #0c0c0c;
+  letter-spacing: 2px;
+  margin-top: 15px;
+  margin: auto;
+  text-align: center;
+  font-weight: 700;
+  z-index: 0;
+}
+
+.btn-1{
+  overflow: hidden;
+  border: 3px solid #03cc57;
+  z-index: 0;
+  width: 80%;
+  margin-top: 15px;
+}
+
+}
+
+
+@media (max-width: 1380px){
+  .container-maestro-1{
+    margin-top: 5%;
+    display: flex;
+    width: 80%;
+    height: 600px
+  }
+}
+
+
+@media (max-width: 1220px){
+  .container-piscina-1,.container-piscina-2,.container-piscina-3{
+    height: 90%;
+    width: 35%;
+  }
+
+    
+  .img-piscina{
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+  }
+
+  .titulo-piscina-1{
+    font-size: 18px;
+  }
+
+  .descripcion-piscina-promo{
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    width: 50%;
+    margin-top: 10px;
+  }
+  .btn-1{
+    overflow: hidden;
+    border: 3px solid #03cc57;
+    z-index: 0;
+    width: 80%;
+ 
+    margin-top: 15px;
+  }
+  
+}
+
+@media (max-width: 920px){
+  
+}
+

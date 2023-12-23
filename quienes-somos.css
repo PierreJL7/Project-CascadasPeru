@@ -1,0 +1,233 @@
+
+.container-quienes-somos{
+    margin-top: 7em;
+}
+.h1-title-quienes-somos,.desc-quienes-somos{
+    color: #2d2d2d;
+}
+
+.h1-title-quienes-somos{
+    color: #2d2d2d;
+    text-align: center;
+    height: 50px;
+    font-size: 40.5px;
+    background: url(./img/FONDO-TITLE.jpg);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 20px;
+
+}
+
+
+
+.quienes-somos-parte-1{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+    margin: auto;
+}
+
+.container-img-quienessomos-1{
+     text-align: center;
+     margin-left: 40px;
+
+
+}
+
+.img-quienes-somos-1{
+    width: 500px;
+    margin-top: 10px;
+    transition: 0.5s all;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+.img-quienes-somos-1:hover{
+    border-radius:5%;
+    -webkit-border-radius:15%;
+    box-shadow: 0px 0px 15px 15px #ddd1c9;
+    -webkit-box-shadow: 0px 0px 15px 15px #e7e4e1;
+}
+
+.container-desc-quienes-somos{
+  width: 700px;
+  margin-left: 50px;
+}
+
+.desc-quienes-somos{
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.li-desc{
+    margin-top: 1em;
+  font-size: 18px;
+  list-style: none;
+  color: #0a141d;
+  text-decoration: none;
+
+
+}
+
+/*-----------------------CONTENEDOR EMPRESA----------------*/
+.container-empresa{
+    width: 90%;
+    height: 470px;
+    display: flex;    
+    margin: auto;
+    text-align: center;
+    align-items: end;
+    justify-content: center;
+
+}
+
+.empresa-funcion{
+    margin:auto;
+    text-align: center;
+    width: 420px;
+    height: 420px;
+}
+
+.img-empresa-funcion{
+    width: 400px;
+    height: 350px;
+    border-radius: 1em;
+}
+
+.empresa-funcion h2{
+    width: 400px;
+    text-align: center;
+}
+
+@media screen and (max-width: 1200px){
+    .container-empresa{
+        display: block;
+        width: 100%;
+        height: 1300px;
+     
+    }
+
+    .empresa-funcion{
+        height: 430px;
+            
+    }
+
+    .empresa-funcion h2{
+        width: 100%;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .quienes-somos-parte-1{
+        padding: 20px;
+        display: block;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        margin-top: 20px;
+        margin: auto;
+    }
+
+    .container-desc-quienes-somos{
+        margin-left: 4em;
+        width: 80%;
+       
+    }
+
+    
+    .container-img-quienessomos-1{
+        text-align: center;
+        margin: auto;
+
+
+    }
+
+    .img-quienes-somos-1{
+        width: 350px;
+        height: 400px;
+    }
+
+}
+
+@media screen and (max-width: 550px){
+    .container-img-quienessomos-1{
+        text-align: center;
+
+    }
+
+    
+    .container-desc-quienes-somos{
+        margin-left: 2.8em;
+        width: 80%;
+       
+    }
+
+    .img-quienes-somos-1{
+        width: 250px;
+        height: 270px;
+    }
+
+    .desc-quienes-somos{
+        font-size: 15px;
+        margin-top: 20px;
+        text-align: justify;
+    }
+
+    .li-desc{
+        font-size: 15px;
+    }
+
+    .h1-title-quienes-somos{
+        font-size: 28px;
+    }
+
+    .container-empresa{
+        display: block;
+        width: 100%;
+        height: 1100px;
+     
+    }
+
+    .empresa-funcion{
+        height: 350px;
+        width: 100%;
+            
+    }
+
+    .empresa-funcion h2{
+        font-size: 17px;
+        height: 15%;
+    }
+
+    .img-empresa-funcion{
+        width: 300px;
+        height: 300px;
+        border-radius: 1em;
+    }
+}
+
+
+@media screen and (max-width: 420px){
+    .img-quienes-somos-1{
+        width: 250px;
+        height: 250px;
+    }
+
+    .desc-quienes-somos{
+        font-size: 15px;
+        margin-left: -20px;
+    }
+
+    .img-empresa-funcion{
+        width: 250px;
+        height: 280px;
+        border-radius: 1em;
+    }
+}
