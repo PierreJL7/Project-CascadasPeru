@@ -119,15 +119,6 @@ list-style: none;
 }
 
 
-
-
-
-
-
-
-
-
-
 .content{
   padding: 20px 10px;
   text-align: center;
@@ -391,14 +382,26 @@ list-style: none;
   
 }
 
-@media (max-width: 500px){
-  .container-maestro-1,  .container-active-2{
-    display: block;
-    width: 100%;
-    margin:auto;
-    text-align: center;
-    align-items: center;
-    
+@media (max-width: 580px){
+  .container-grid{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    /* grid-template-columns: repeat(3,1fr); */
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-gap: 25px;
+    /* height: 475px; */
+  
+    margin-top: 1em;
+  }
+  
+  .cards{
+    background-color: #fff;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+  }
+  
+  .image-section{
+    height: 300px;
 
   }
 
