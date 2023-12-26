@@ -31,7 +31,7 @@ body.dark{
     --body-color: #18191A;
     --nav-color: #242526;
     --side-nav: #242526;
-    --text-color: #CCC;
+    --text-color: #CCC;  
     --search-bar: #242526;
 }
 
@@ -378,7 +378,6 @@ body.dark .search-field i{
     width: 100%;
     background-color: #0a141d;
     bottom: 0;
-    position: absolute;
     align-self: flex-end;
   }
   .pie-pagina .grupo-1{

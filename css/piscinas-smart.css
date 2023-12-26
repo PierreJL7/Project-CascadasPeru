@@ -20,7 +20,7 @@
 .descripcion-piscinas{
   width: 70%;
   line-height: 35px;
-  height: 500px;
+
   margin: auto;
   text-align: justify;
 
@@ -40,9 +40,10 @@ list-style: none;
   width: 70%;
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  /* grid-template-columns: repeat(3,1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 25px;
-  height: 475px;
+  /* height: 475px; */
 
   margin-top: 1em;
 }
@@ -98,6 +99,28 @@ list-style: none;
   background-size: cover;
   background-position: center;
 }
+
+.cards .img-seven{
+  background-image: url(../img/piscinas/piscina-atlantis.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-eight{
+  background-image: url(../img/piscinas/piscina-caribe-III.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-nine{
+  background-image: url(../img/piscinas/piscina-visor-vidrio.png);
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
 
 
 
@@ -293,6 +316,9 @@ list-style: none;
 
 }
 
+.pie-pagina {
+  
+}
 
 @media (max-width: 1380px){
   .container-maestro-1{
