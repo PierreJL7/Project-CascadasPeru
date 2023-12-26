@@ -18,14 +18,12 @@
 }
 
 .descripcion-piscinas{
-  text-align: center;
-  /* height: 550px; */
   width: 70%;
+  line-height: 35px;
+  height: 500px;
   margin: auto;
   text-align: justify;
-  margin-top: 2rem;
-  font-size: 17px;
-  line-height: 35px;
+
 }
 
 .active-line-height{
@@ -37,6 +35,110 @@ li{
 list-style: none;
 }
 
+/*------------------------CARDS GRID-----------------------*/
+.container-grid{
+  width: 70%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 25px;
+  height: 475px;
+
+  margin-top: 1em;
+}
+
+.cards{
+  background-color: #fff;
+  box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+}
+
+.image-section{
+  height: 325px;
+  background-color: red;
+}
+
+.cards .img-one{
+  background-image: url(../img/piscinas/piscina-venecia-4.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-two{
+  background-image: url(../img/piscinas/piscina-bahia.jpg);
+  background-size: cover;
+ 
+}
+
+.cards .img-three{
+  background-image: url(../img/piscinas/piscina-mancora-1.bmp);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-four{
+  background-image: url(../img/piscinas/piscinas-cancun-1.bmp);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-four{
+  background-image: url(../img/piscinas/piscinas-cancun-1.bmp);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-five{
+  background-image: url(../img/piscinas/piscina-haway.bmp);
+  background-size: cover;
+  background-position: center;
+}
+
+.cards .img-six{
+  background-image: url(../img/piscinas/piscina-olimpia.bmp);
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
+
+
+.content{
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.content h3{
+  letter-spacing: 1px;
+}
+
+.p-dimensiones{
+  margin-top: 0.5em;
+}
+
+.content a{
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+  letter-spacing: 1.5px;
+  display: inline-block;
+  background-color: #166ee0;
+  padding: 8px 15px;
+}
+
+.content a:hover{
+  background-color: #47b5e7;
+  
+}
+
+.button{
+  margin-top: 1rem;
+}
+
+/*--------------------ACABA CARDS GRID--------------------*/
+
 .container-maestro-1{
   width: 70%;
   margin: auto;
@@ -45,7 +147,16 @@ list-style: none;
   z-index: 0;
   height: 750px;
   display: flex;
+}
 
+.container-active-2{
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+  gap: 20px;
+  z-index: 0;
+  height: 750px;
+  display: flex;
 }
 
 .titulo-piscina-1{
@@ -69,7 +180,6 @@ list-style: none;
 .container-piscina-1,.container-piscina-2,.container-piscina-3{
   margin-left: 1px;
   margin-top: 15px;
-  height:  700px;
   width: 100%;
   max-width: 100%;
   border: 2px solid rgb(66, 66, 66);
@@ -141,12 +251,15 @@ list-style: none;
 
 }
 
+.container-active-2{
+  height: 600px;
+}
+
 .titulo-piscina-1{
   font-size: 22px;
 }
 
 .container-piscina-1,.container-piscina-2,.container-piscina-3{
-  height: 570px;
   width: 40%;
 }
 
@@ -185,18 +298,27 @@ list-style: none;
   .container-maestro-1{
     margin-top: 5%;
     display: flex;
-    width: 80%;
+    width: 70%;
     height: 600px
   }
+
+  .titulo-piscina-1{
+    font-size: 20px;
+  }
+
 }
 
 
 @media (max-width: 1220px){
-  .container-piscina-1,.container-piscina-2,.container-piscina-3{
-    height: 90%;
-    width: 35%;
+  .container-maestro-1{
+    height: 600px;
   }
 
+
+
+  .container-piscina-1,.container-piscina-2,.container-piscina-3{
+    height: 85%;
+  }
     
   .img-piscina{
     margin-top: 20px;
@@ -216,6 +338,22 @@ list-style: none;
     width: 50%;
     margin-top: 10px;
   }
+
+  .btn{ 
+
+    padding: 8px 10px;
+    text-decoration: none;
+    color: #0c0c0c;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+    z-index: 0;
+    font-size: 14px;
+  }
+  
+
   .btn-1{
     overflow: hidden;
     border: 3px solid #03cc57;
@@ -227,7 +365,16 @@ list-style: none;
   
 }
 
-@media (max-width: 920px){
-  
-}
+@media (max-width: 500px){
+  .container-maestro-1,  .container-active-2{
+    display: block;
+    width: 100%;
+    margin:auto;
+    text-align: center;
+    align-items: center;
+    
 
+  }
+
+
+}
