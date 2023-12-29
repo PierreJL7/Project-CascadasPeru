@@ -1,0 +1,890 @@
+[
+    {
+        "id": "rebose-01",
+        "titulo": "Rebose de Acero Quirúrgico inoxidable",
+        "descripcion": "Modelo: Cola de pato/Cuello de cisne, Base: 50cm x 50cm",
+        "imagen": "./img/reboses/01-rebose-cola-pato.png",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 3500"
+    },
+    {
+        "id": "rebose-02",
+        "titulo": "Rebose de Acero Quirúrgico inoxidable",
+        "descripcion": "Modelo: Cabeza de Cobra, Base: 30cm x 14cm",
+        "imagen": "./img/reboses/02-rebose-cabeza-cobra.png",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+      
+        "precio": "S/. 3500"
+    },
+    {
+        "id": "rebose-03",
+        "titulo": "Rebose de Acero Quirúrgico inoxidable",
+        "descripcion": "Modelo: Cabeza de Cobra Tubular, Base: 30cm x 14cm",
+        "imagen": "./img/reboses/03-rebose-acero-cobra-tubular.webp",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 1500.00"
+    },
+    {
+        "id": "rebose-04",
+        "titulo": "Rebose Quirúrgico",
+        "descripcion": "Modelo: Cabeza de Ganzo Tubular, Base: 10cm x 10cm",
+        "imagen": "./img/reboses/04-rebose-acero-cabeza-ganzo.webp",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 2800.00"
+    },
+    {
+        "id": "rebose-05",
+        "titulo": "Rebose de Acero Quirúrgico inoxidable",
+        "descripcion": "Modelo: Tubular Oriental, Base: 30cm x 14cm",
+        "imagen": "./img/reboses/05-rebose-acero-modelo-oriental.png",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 2800.00"
+    },
+    {
+        "id": "rebose-06",
+        "titulo": "Rebose de Acero Muro Lloron de Vidrio",
+        "marca": "Decors Smart",
+        "medida": "Muro: 2 m altura x 1 m ancho",
+        "descripcion": "Poza: 40 cm altura x 40 cm ancho",
+        "imagen": "./img/reboses/06-rebose-muro-lloron-de-vidrio.png",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 7000"
+    }
+    ,
+
+
+    {
+        "id": "fachaleta-01",
+        "titulo": "Fachaleta de Piedra Cuadrado x m2",
+        "descripcion":"Medida por Piedra Cuadrado: 15cm x 60cm",
+        "imagen": "./img/fachaletas/01-fachaleta-piedra-cuadrado.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 220"
+    },
+    {
+        "id": "fachaleta-02",
+        "titulo": "Fachaleta Madera de Cubo x m2",
+        "descripcion":"Medida por Madera de Cubo: 15cm x 60cm",
+        "imagen": "./img/fachaletas/02-fachaleta-madera-cubo.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 328"
+    },
+    {
+        "id": "fachaleta-03",
+        "titulo": "Fachaleta de Piedra Arequipeña x m2",
+        "descripcion":"Medida por Piedra Arequipeña: 15cm x 60cm",
+        "imagen": "./img/fachaletas/03-fachaleta-piedra-arequipena.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-04",
+        "titulo": "Fachaleta de Piedra Ayacuchana x m2",
+        "descripcion":"Medida por Piedra Ayacuchana: 15cm x 60cm",
+        "imagen": "./img/fachaletas/04-fachaleta-piedra-ayacuchana.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-05",
+        "titulo": "Fachaleta de Piedra Pizarra x m2",
+        "descripcion":"Medida por Piedra Pizarra: 15cm x 60cm",
+        "imagen": "./img/fachaletas/05-fachaleta-piedra-pizarra.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-06",
+        "titulo": "Fachaleta Modelo Brick x m2",
+        "descripcion":"Medida por Ladrillo Brick Rococho: 20cm x 60cm",
+        "imagen": "./img/fachaletas/06-fachaleta-modelo-brick.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 183"
+    },  
+    {
+        "id": "fachaleta-07",
+        "titulo": "Fachaleta Concreto Estilo Madera x m2",
+        "descripcion":"Medida por Concreto Madera: 15cm x 60cm",
+        "imagen": "./img/fachaletas/07-fachaleta concreto-estilo-madera.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 138"
+    },  
+    {
+        "id": "fachaleta-08",
+        "titulo": "Fachaleta Concreto Estilo Cambat x m2",
+        "descripcion":"Medida por Concreto Cambat: 15cm x 60cm",
+        "imagen": "./img/fachaletas/08-fachaleta-concreto-cambat.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 138"
+    },  
+    {
+        "id": "luces-RGB-01",
+        "titulo": "Luz Sumergible de Acero Inoxidable RGB",
+        "descripcion":"Potencia: 3 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/RGB/01-luz-RGB-3W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio": "S/. 310.60"
+    },
+    {
+        "id": "luces-RGB-02",
+        "titulo": "Luz Sumergible de Acero Inoxidable RGB",
+        "descripcion":"Potencia: 6 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/RGB/02-luz-RGB-6W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio": "S/. 450.10" 
+    },
+    {
+        "id": "luces-RGB-03",
+        "titulo": "Luz Sumergible de Acero Inoxidable RGB",
+        "descripcion":"Potencia: 12 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/RGB/03-luz-RGB-12W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio": "S/. 559.40"
+    },
+   
+    {
+        "id": "luces-calida-01",
+        "titulo": "Luz Sumergible de Acero Cálida",
+        "descripcion":"Potencia: 3 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/calida/01-luz-calida-3W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio": "S/. 310.60"
+    },
+    {
+        "id": "luces-calida-02",
+        "titulo": "Luces Sumergibles de Acero Calida 12W",
+        "descripcion":"Potencia: 12 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/calida/02-luz-calida-12W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio": "S/. 559.40"
+    },
+    {
+        "id": "luces-RGB-03",
+        "titulo": "Luces Sumergibles de Acero Inoxidables 24W",
+        "descripcion":"Potencia: 24 WATTS, Voltaje: 12V DC, Vida Útil: 50.000 horas",
+        "imagen": "./img/luces/calida/03-luz-calida-24W.png",
+        "categoria": {
+            "nombre": "Luces",
+            "id": "luces"
+        },
+        "precio":  "S/. 1008.90"
+    }  , 
+    {
+        "id": "bomba-01",
+        "titulo": "Bomba Sumergible de Acero Inoxidable Smart",
+        "marca" : "Marca: Leo",
+        "medida" : "Descarga e Ingreso: 1.5'' " ,
+        "descripcion":"Potencia: 1HP",
+        "imagen": "./img/bombas/01-bomba-1hp.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "S/. 870"  
+    },
+    {
+        "id": "bomba-02",
+        "titulo": "Bomba Sumergible de Acero Inoxidable Smart",
+        "marca": "Marca: Ingco",
+        "medida": "Descarga e Ingreso: 2'' ",
+        "descripcion":"Potencia: 2HP",
+        "imagen": "./img/bombas/02-bomba-2hp.jfif",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "S/. 1990"
+    },
+    {
+        "id": "bomba-03",
+        "titulo": "Electrobomba Max Flo Smart",
+        "marca": "Marca: Hayward",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1HP",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1hp-es-sp2807x10-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 722.00"
+    },
+    {
+        "id": "bomba-04",
+        "titulo": "Electrobomba Max Flo Smart",
+        "marca": "Marca: Hayward",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1.5HP",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1-5-hp-sp2810x15expm-hayward_thumb.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 1042.00"
+    },
+    {
+        "id": "bomba-05",
+        "titulo": "Electrobomba Max Flo Smart",
+        "marca": "Marca: Hayward",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 2HP",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1-5-hp-sp2810x15expm-hayward_thumb.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 1222.00"
+    },
+    {
+        "id": "bomba-06",
+        "titulo": "Electrobomba Swimpro Smart",
+        "marca": "Marca: Hayward",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1/2HP",
+        "imagen": "https://falabella.scene7.com/is/image/Falabella/6743056_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 278.00"
+    },
+    {
+        "id": "bomba-07",
+        "titulo": "Electrobomba Swimpro Smart",
+        "marca": "Marca: Hayward",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1HP",
+        "imagen": "https://falabella.scene7.com/is/image/Falabella/6743056_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 347.00"
+    },
+    {
+        "id": "bomba-08",
+        "titulo": "Electrobomba Veico Pro Smart",
+        "marca": "Marca: Veico",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1HP",
+        "imagen": "https://tienda.saamiseg.com/846-large_default/veico-pro-100-astralpool-1hp-monof.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 435.00"
+    },
+    {
+        "id": "bomba-09",
+        "titulo": "Electrobomba Veico Pro Smart",
+        "marca": "Marca: Veico",
+        "medida": "Descarga e Ingreso: 1.5'' ",
+        "descripcion":"Potencia: 1.5HP",
+        "imagen": "https://tienda.saamiseg.com/846-large_default/veico-pro-100-astralpool-1hp-monof.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 472.00"
+    },
+    {
+        "id": "bomba-10",
+        "titulo": "Electrobomba para piscina Smart modelo 5F-M2 SUC",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
+        "descripcion":"Potencia: 0.5HP",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-jacuzzi-5f-m-0-5-hp-monofasico.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 410.00"
+    },
+    {
+        "id": "bomba-11",
+        "titulo": "Electrobomba para piscina Smart modelo 1F-M2 SUC",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
+        "descripcion":"Potencia: 1.0HP",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-jacuzzi-5f-m-0-5-hp-monofasico.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 420.00"
+    },
+    {
+        "id": "bomba-12",
+        "titulo": "Electrobomba para piscina Smart modelo 7A-M SUC",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
+        "descripcion":"Potencia: 0.75HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 470.00"
+    },
+    {
+        "id": "bomba-13",
+        "titulo": "Electrobomba para piscina Smart modelo 1A-M SUC",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
+        "descripcion":"Potencia: 1.0 HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 499.00"
+    },
+    {
+        "id": "bomba-14",
+        "titulo": "Electrobomba para piscina monofásica Smart, Modelo 15B-M",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 2'' x 2''",
+        "descripcion":"Potencia: 1.5 HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 590.00"
+    },
+    {
+        "id": "bomba-15",
+        "titulo": "Electrobomba para piscina trifásica Smart, Modelo 15B-T",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 2'' x 2''",
+        "descripcion":"Potencia: 1.8 HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 585.00"
+    },
+    {
+        "id": "bomba-16",
+        "titulo": "Electrobomba para piscina monofásica Smart, Modelo 2B-M",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 2'' x 2''",
+        "descripcion":"Potencia: 2.0 HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 729.00"
+    },
+    {
+        "id": "bomba-17",
+        "titulo": "Electrobomba para piscina trifásica Smart, Modelo 2B-T",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Succión y Descarga: 2'' x 2''",
+        "descripcion":"Potencia: 2.0 HP",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 675.00"
+    },
+    {
+        "id": "bomba-18",
+        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP756",
+        "marca": "Marca: Ncole Pool",
+        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
+        "descripcion":"Potencia: 1.0 HP",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 226.00"
+    },
+    {
+        "id": "bomba-19",
+        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP1106",
+        "marca": "Marca: Ncole Pool",
+        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
+        "descripcion":"Potencia: 1.5 HP",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 240.00"
+    },
+    {
+        "id": "bomba-20",
+        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP1606",
+        "marca": "Marca: Ncole Pool",
+        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
+        "descripcion":"Potencia: 2.0 HP",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "dolar": "$/. 323.00"
+    },
+
+
+    {
+        "id": "jardin-01",
+        "titulo": "Jardin Vertical Artificial Modelo Azaleas",
+        "descripcion": "Medidas: 100cm x 50cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/01-jardin-azalea.webp",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/. 450.00"
+    },
+    {
+        "id": "jardin-02",
+        "titulo": "Jardin Vertical Artificial Modelo Booxwoord",
+        "descripcion": "Medidas: 40cm x 60cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/02-jardin-Booxwoord.jpeg",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/. 160.00"
+    }
+    ,
+    {
+        "id": "jardin-03",
+        "titulo": "Jardin Vertical Artificial Modelo Lush",
+        "descripcion": "Medidas: 50cm x 50cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/03-jardin-lush.jpg",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/ 380.00"
+    },
+    {
+        "id": "empotrable-01",
+        "titulo": "Desnatador para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 8",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_125208882_4223878_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 69.00"
+    },
+    {
+        "id": "empotrable-02",
+        "titulo": "Desnatador para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 6",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2023/10/DESNATADOR-DE-6-PARA-PISCINA-MARCA-POOL-SYSTEM.jpg",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 45.00"
+    },
+    {
+        "id": "empotrable-03",
+        "titulo": "Caja de paso para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Material: ABS",
+        "descripcion": "Entrada: 3/4",
+        "imagen": "https://fegasa.com.pe/img/productos/caja-de-paso-pa-15861-laswim-thumb.webp",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 10.00"
+    },
+    {
+        "id": "empotrable-04",
+        "titulo": "Rejilla de fondo sin base",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 8",
+        "descripcion": "Ancho: 19.5 cm, Altura: 20.5 cm",
+        "imagen": "https://www.fegasa.com.pe/img/productos/rejilla-de-fondo-sp-1030-finn-forest-2.webp",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 9.00"
+    },
+    {
+        "id": "empotrable-05",
+        "titulo": "Rejilla de fondo sin base",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 9 x 9",
+        "descripcion": "Ancho: 16.5 cm, Altura: 6 cm",
+        "imagen": "https://www.fegasa.com.pe/img/productos/rejilla-sbase-9pgx-9pg-wg1031lv2-190gpm-hayward-2.webp",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 21.00"
+    },
+    {
+        "id": "empotrable-06",
+        "titulo": "Rejilla de fondo sin base",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 12 x 12",
+        "descripcion": "Ancho: 30.48 cm, Altura: 30.48",
+        "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_600/https://grupobonnett.com/wp-content/uploads/2022/11/EMaux-part3-12.jpg",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 25.00"
+    },
+    {
+        "id": "empotrable-07",
+        "titulo": "Sumidero de Fondo para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 2",
+        "descripcion": "Diámetro: 8",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/sumidero-de-fondo-de-8-pulgadas-pa01467-c-700x700.jpg",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 18.00"
+    },
+    {
+        "id": "empotrable-08",
+        "titulo": "Receptáculo de presión interna para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 1 1/2",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/receptaculo-de-1-y-media-pulgada-ht-1012-700x700.jpg",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 5.00"
+    },
+    {
+        "id": "empotrable-09",
+        "titulo": "Boquilla de retorno para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 3/4",
+        "descripcion": "Material: PVC",
+        "imagen": "https://images.squarespace-cdn.com/content/v1/61ef61cdb77a216f6c799b30/1659634407208-IB455SZ4RCG2ADMNVK35/SP1419C.png",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 4.00"
+    },
+    {
+        "id": "empotrable-10",
+        "titulo": "Boquilla de retorno para piscina",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 1/2",
+        "descripcion": "Material: PVC",
+        "imagen": "../img/boquillas/rejilla.png",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 4.00"
+    },
+    {
+        "id": "empotrable-11",
+        "titulo": "Rejilla de ingreso para receptáculo",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 1 1/2",
+        "descripcion": "Material: PVC",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_695052-MPE70258923186_072023-O.webp",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 3.00"
+    },
+    {
+        "id": "empotrable-12",
+        "titulo": "Tapa para boquilla de aspirado",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 1 1/2",
+        "descripcion": "Material: PVC",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_748024-MPE70282118385_072023-O.webp",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 1.00"
+    },
+    {
+        "id": "empotrable-13",
+        "titulo": "Boquilla Temperado De Piso Plana HTC1424N",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 1 1/2, Altura 4 cm, Ancho 2 cm",
+        "descripcion": "Material: PVC",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_125224812_4229128_1?wid=800&hei=800&qlt=70",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 8.00"
+    },
+    {
+        "id": "empotrable-14",
+        "titulo": "Boquilla Temperado De Piso Calada HTC1424N",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 1 1/2, Altura 4 cm, Ancho 2 cm",
+        "descripcion": "Material: PVC",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/boquilla-de-piso-calada-htc1424n-700x700.jpg",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 7.00"
+    },
+    {
+        "id": "empotrable-15",
+        "titulo": "Boquilla Completa De Ingreso",
+        "marca": "Marca: Pool System",
+        "medida": "Conexión: 2 Embone",
+        "descripcion": "Material: Acero Inoxidable",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_126260389_4503869_1",
+        "categoria": {
+            "nombre": "Empotrables",
+            "id": "empotrables"
+        },
+        "dolar": "$/. 80.00"
+    },
+    {
+        "id": "escalera-01",
+        "titulo": "Escalera para piscina de 2 pasos MU215",
+        "marca": "Marca: Pool System",
+        "medida": "Altura: 1.30 m, Ancho: 50 cm",
+        "descripcion": "Material: Acero Inoxidable 304  ",
+        "imagen": "https://tasayco.com.pe/wp-content/uploads/2022/10/ESCALERA-2P.jpg",
+        "categoria": {
+            "nombre": "Escaleras",
+            "id": "escaleras"
+        },
+        "dolar": "$/. 303.00"
+    }
+    ,
+    {
+        "id": "escalera-02",
+        "titulo": "Escalera para piscina de 3 pasos MU315",
+        "marca": "Marca: Pool System",
+        "medida": "Altura: 1.55 m, Ancho: 50 cm",
+        "descripcion": "Material: Acero Inoxidable 304  ",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/escalera-de-acero-inoxidable-de-2-pasos-su215-sr-700x700.jpg",
+        "categoria": {
+            "nombre": "Escaleras",
+            "id": "escaleras"
+        },
+        "dolar": "$/. 338.00"
+    } ,
+    {
+        "id": "escalera-03",
+        "titulo": "Escalera para piscina de 4 pasos MU415",
+        "marca": "Marca: Pool System",
+        "medida": "Altura: 1.80 m, Ancho: 50 cm",
+        "descripcion": "Material: Acero Inoxidable 304  ",
+        "imagen": "https://tasayco.com.pe/wp-content/uploads/2022/10/ESCALERA-4P.jpg",
+        "categoria": {
+            "nombre": "Escaleras",
+            "id": "escaleras"
+        },
+        "dolar": "$/. 377.00"
+    },
+    {
+        "id": "escalera-04",
+        "titulo": "Escalera para piscina de 5 pasos MU515",
+        "marca": "Marca: Pool System",
+        "medida": "Altura: 2.50 m, Ancho: 50 cm",
+        "descripcion": "Material: Acero Inoxidable 304  ",
+        "imagen": "https://tasayco.com.pe/wp-content/uploads/2022/10/ESCALERA-5P.jpg",
+        "categoria": {
+            "nombre": "Escaleras",
+            "id": "escaleras"
+        },
+        "dolar": "$/. 399.00"
+    },
+    {
+        "id": "filtro-01",
+        "titulo": "Filtro de Arena con 6 vías de conexión Modelo 15TP",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Pulgadas: 15'' ",
+        "descripcion": "Conexiones: 1 1/2'' x 1 1/2'' ",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-jacuzzi-tp15-15pulgadas-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 300.00"
+    },
+    {
+        "id": "filtro-02",
+        "titulo": "Filtro de Arena con 6 vías de conexión Modelo 19TP",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Pulgadas: 19'' ",
+        "descripcion": "Conexiones: 1 1/2'' x 1 1/5'' ",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-jacuzzi-tp19-19pulgadas-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 390.00"
+    },
+    {
+        "id": "filtro-03",
+        "titulo": "Filtro de Arena con 6 vías de conexión Modelo 22TP",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Pulgadas: 22'' ",
+        "descripcion": "Conexiones: 1 1/2'' x 1 1/2'' ",
+        "imagen": "https://bombashopping.vteximg.com.br/arquivos/ids/162754-292-292/filtro-jacuzzi-22-TP-3.png?v=636885987893600000",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 475.00"
+    },
+    {
+        "id": "filtro-04",
+        "titulo": "Filtro de Arena con 6 vías de conexión Modelo 26TP",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Pulgadas: 26'' ",
+        "descripcion": "Conexiones: 2'' x 2'' ",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-jacuzzi-tp26-26pulgadas-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 675.00"
+    },
+    {
+        "id": "filtro-05",
+        "titulo": "Filtro de Arena con 6 vías de conexión Modelo 30TP",
+        "marca": "Marca: Jacuzzi",
+        "medida": "Pulgadas: 30'' ",
+        "descripcion": "Conexiones: 2'' x 2'' ",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-jacuzzi-tp30-30pulgadas-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 1090.00"
+    },
+    {
+        "id": "filtro-06",
+        "titulo": "Filtro de Arena de Doble Bobina Enrollada Modelo NBT400",
+        "marca": "Marca: Pool System",
+        "medida": "Pulgadas: 16'' ",
+        "descripcion": "Altura: 6.50 m, Ancho: 4.00 m",
+        "imagen": "../img/filtros/FILTRO.png",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 206.00"
+    },
+    {
+        "id": "filtro-07",
+        "titulo": "Filtro de Arena Con Válvula Multiport Superior M18",
+        "marca": "Marca: Minder",
+        "medida": "Pulgadas: 18'' ",
+        "descripcion": "Conexiones: 1 1/2”",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-minder-m18-18pulgadas-con-valvula-multiport-superior-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 239.00"
+    },
+    {
+        "id": "filtro-08",
+        "titulo": "Filtro de Arena Con Válvula Multiport Superior M21",
+        "marca": "Marca: Minder",
+        "medida": "Pulgadas: 21'' ",
+        "descripcion": "Conexiones: 1 1/2”",
+        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/filtro-minder-m18-18pulgadas-con-valvula-multiport-superior-700x700.jpg",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 285.00"
+    },
+    {
+        "id": "filtro-09",
+        "titulo": "Filtro de Arena de Doble Bobina Enrollada Modelo NBT600",
+        "marca": "Marca: Minder",
+        "medida": "Pulgadas: 24'' ",
+        "descripcion": "Altura: 8.60 m, Ancho: 6.00 m",
+        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_125230092_4231983_1?wid=1500&hei=1500&qlt=70",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 363.00"
+    }
+]

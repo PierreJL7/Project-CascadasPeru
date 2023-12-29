@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo - Carrito de Compras</title>
+    <link rel="stylesheet" href="./css/catalogo.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+    <div class="wrapper">
+            <header class="header-mobile">
+                <h1 class="logo">Piscinas Fresh</h1>
+                <button class="open-menu" id="open-menu">
+                    <i class="bi bi-list"></i>
+                </button>
+            </header>
+            <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo" ><a style="color: #fff;" href="./index.html">Piscinas Fresh</a></h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li style="margin-bottom: 10px; margin-left: 13px;">
+                        <i class="bi bi-house-door-fill"></i>
+                        <a href="./index.html" style="color: aliceblue; margin-left: 15px;">Regresar a inicio</a>
+                       </li>
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="reboses" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Reboses</button>
+                    </li>
+                    <li>
+                        <button id="fachaletas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Fachaletas</button>
+                    </li>
+                    <li>
+                        <button id="luces" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Luces</button>
+                    </li>
+                    <li>
+                        <button id="bombas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Bombas</button>
+                    </li>
+                    <li>               
+                        <button id="jardines" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Jardines</button>
+                    </li>
+                    <li>
+                        <button id="empotrables" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Empotrables Blancos</button>
+                    </li>
+                    <li>               
+                        <button id="escaleras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Escaleras</button>
+                    </li>
+                    <li>               
+                        <button id="filtros" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Filtros</button>
+                    </li>
+                </ul> 
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 Piscinas Fresh</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div class="contenedor-buscador">
+                <input type="text" class="form-control" id="myinput" placeholder="Buscar producto.." >
+            </div>
+
+            <div id="contenedor-productos" class="contenedor-productos">                 
+                <h3 class="not-found" id="para" style="display: none;">Not Found </h3>
+                
+            </div>
+        </main>
+    </div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="./js/catalogo.js"></script>
+<script src="./js/menu.js"></script>
+</body>
+</html>
