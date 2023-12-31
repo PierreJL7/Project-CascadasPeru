@@ -77,28 +77,29 @@ botonesCategorias.forEach(boton => {
 });
 
 /*FILTRO DE BUSQUEDA */
-document.getElementById("myinput").addEventListener("keyup",function(){
-    let text = document.getElementById("myinput").value
+let input = document.getElementById("myinput");
+let para = document.getElementById("para");
 
-    filter = productos.filter(function(a){
-        if(a.name.includes(text)){
-            return a.name;
-        }
+input.addEventListener("keyup", function() {
+    let text = this.value;
+
+    let filter = productos.filter(function(a) {
+        return a && a.titulo && a.titulo.toLowerCase().includes(text.toLowerCase());
     });
-    if(this.value ==""){
+
+    //console.log(filter);
+
+    if (this.value === "") {
         cargarProductos(productos);
+        para.style.display = 'none';
+    } else if (filter.length === 0) {
+        para.style.display = 'block';
+        document.getElementById("contenedor-productos").innerHTML = "";
+    } else {
+        cargarProductos(filter);
+        para.style.display = 'none';
     }
-    else{
-        if(filter == ""){
-            document.getElementById("para").style.display = 'block'
-            document.getElementById("contenedor-productos").innerHTML = "";
-        }
-        else {
-            cargarProductos(filter);
-            document.getElementById("para").style.display = 'none'
-        }
-    }
-})
+});
 
 
 
