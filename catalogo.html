@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./css/catalogo.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 </head>
 <body>
     <div class="wrapper">
@@ -63,14 +64,27 @@
             </footer>
         </aside>
         <main>
-            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
-            <div class="contenedor-buscador">
-                <input type="text" class="form-control" id="myinput" placeholder="Buscar producto.." >
+            <div class="container-buscador">
+                <div class="container-h1-titulo" >
+                    <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+                </div>
+
+                    <input type="text" class="form-control" id="myinput" placeholder="Buscar producto.." >
+                    <!--
+                                            <form class="input-busqueda" action="">
+                        <input type="search" required>
+                        <i class="fa fa-search"></i>
+                        <a class="clear" href="javascript:void(0)" id="clear-btn"></a>
+                    </form>
+                    -->
+
+
+                    
+
             </div>
 
             <div id="contenedor-productos" class="contenedor-productos">                 
                 <h3 class="not-found" id="para" style="display: none;">Not Found </h3>
-                
             </div>
         </main>
     </div>

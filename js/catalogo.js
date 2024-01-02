@@ -77,29 +77,33 @@ botonesCategorias.forEach(boton => {
 });
 
 /*FILTRO DE BUSQUEDA */
-document.getElementById("myinput").addEventListener("keyup",function(){
-    let text = document.getElementById("myinput").value
-
-    filter = productos.filter(function(a){
-        if(a.name.includes(text)){
-            return a.name;
-        }
+document.getElementById('myinput').addEventListener('keyup', function () {
+    console.log('in');
+    let text = document.getElementById('myinput').value;
+    console.log(text);
+    const filter = productos.filter((el) =>
+      el.titulo.toLowerCase().includes(text.toLowerCase())
+    );
+    console.log(productos);
+    console.log(filter);
+    /*  filter = productos.filter(function (a) {
+      if (a.name.includes(text)) {
+        return a.name;
+      }
     });
-    if(this.value ==""){
-        cargarProductos(productos);
+    */
+    if (this.value === '') {
+      cargarProductos(productos);
+    } else {
+      if (filter.length === 0) {
+        document.getElementById('para').style.display = 'block';
+        document.getElementById('contenedor-productos').innerHTML = '';
+      } else {
+        cargarProductos(filter);
+        //   document.getElementById('para').style.display = 'none';
+      }
     }
-    else{
-        if(filter == ""){
-            document.getElementById("para").style.display = 'block'
-            document.getElementById("contenedor-productos").innerHTML = "";
-        }
-        else {
-            cargarProductos(filter);
-            document.getElementById("para").style.display = 'none'
-        }
-    }
-})
-
+  });
 
 
 

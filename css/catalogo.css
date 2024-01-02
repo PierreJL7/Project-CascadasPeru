@@ -143,13 +143,19 @@ main {
 
 }
 
-
+.container-buscador{
+    display: flex;
+    width: 100%; max-width: 100%;
+}
 
 #myinput{
     width: 25%;
     height: 30px;
     margin-bottom: 30px;
     border-radius: 0.2em;
+    margin-left: auto;
+    border-radius: 1em;
+    padding: 1em;
 }
 
 .not-found{
@@ -354,7 +360,19 @@ main {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
+ 
+
+    .container-buscador{
+        width: 100%;
+        height: 100px;
+        display: block;
+    }
+
+    #myinput{
+        width: 50%;
+        margin-bottom: auto;
+    }
 
     .wrapper {
         min-height: 100vh;
