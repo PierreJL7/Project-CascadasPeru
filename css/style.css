@@ -435,6 +435,7 @@
   margin: auto;
   margin-top: 4rem;
   margin-bottom: 3em;
+  text-align: center;
 }
 
 .info-container{
@@ -463,7 +464,9 @@
 }
 
 .video-publicidad, video{
-    margin-left: auto;
+   margin: auto;
+   text-align: center;
+   margin-top: 2em;
     
 
 }
@@ -542,6 +545,33 @@
     margin-left: 2em;
   }
 
+  /*video*/
+
+  .delimitador{
+    margin-top: 2em;
+    width:560px;
+    margin:auto;
+    margin-bottom: 3em;
+    }
+    /* El contenedor con el padding-top crea el tamaño del vídeo */
+    .contenedor{
+    height:0px;
+    width:100%;
+    max-width:1060px; /* Así establecemos el ancho máximo (si lo queremos) */
+    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
+    position:relative;
+    margin-bottom: 3em;
+    }
+    /* El iframe se adapta al tamaño del contenedor */
+    iframe{
+    margin-top: 2em;
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+    margin-bottom: 2em;
+    }
   
 
   
@@ -549,43 +579,33 @@
 /*-------------------------RESPONSIVE SLIDER--------------------------*/
 
 
-@media screen and (max-width: 1485px) {
-  .info-video-publicidad {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 80%;
-    max-width: 800px;
-    background-color: #189df5;
-    margin: auto;
-    margin-top: 4rem;
+@media screen and (max-width: 550px) {
+  .delimitador{
+    margin-top: 2em;
+    width:400px;
+    margin:auto;
     margin-bottom: 3em;
-    padding: 1rem;
-  }
-
-  .info-container {
-    background-color: #189df5;
-    width: 100%;
-    position: relative;
-    z-index: 1;
-    text-align: center; /* Alinea el texto al centro */
-  }
-
-  .video-publicidad {
-    width: 100%;
-    height: auto;
-    position: relative;
-    z-index: 0;
-  }
-
-  .video-publicidad video {
-    width: 100%;
-    height: auto;
-  }
-
-  .p-info {
-    font-size: 14px;
-  }
+    }
+    /* El contenedor con el padding-top crea el tamaño del vídeo */
+    .contenedor{
+    height:0px;
+    width:100%;
+    max-width:1060px; /* Así establecemos el ancho máximo (si lo queremos) */
+    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
+    position:relative;
+    margin-bottom: 3em;
+    }
+    /* El iframe se adapta al tamaño del contenedor */
+    iframe{
+    margin-top: 2em;
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+    margin-bottom: 2em;
+    }
+  
 }
 
 @media screen and (max-width: 1024px){
@@ -634,6 +654,17 @@
 
 
 
+    
+  .wrapper-novedades-1 {
+    margin-top: 10%;
+    display: block;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-top: 1.5%;
+  }
+  
+  
   
   .card-novedades{	
     width: 430px;
@@ -850,19 +881,7 @@
 
 
 @media (max-width: 1400px){
-    .video-publicidad{
-      margin: auto;
-      text-align: center;
-      margin-top: 2.5rem;
-    }
-
-    video{
-      width: 750px;
-      margin: auto;
-      text-align: center;
-    }
-
-  
+   
     
 
     .wrapper-novedades-1 {
@@ -1066,10 +1085,4 @@
       transition: .4s ease-in-out;
   }
 
-}
-
-@media screen and (max-width: 470px) {
-  .wrapper-novedades-1{
-    margin-top: 14%;
-  }
 }
