@@ -546,65 +546,23 @@
   }
 
   /*video*/
-
-  .delimitador{
-    margin-top: 2em;
-    width:560px;
-    margin:auto;
-    margin-bottom: 3em;
-    }
-    /* El contenedor con el padding-top crea el tamaño del vídeo */
-    .contenedor{
-    height:0px;
-    width:100%;
-    max-width:1060px; /* Así establecemos el ancho máximo (si lo queremos) */
-    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
-    position:relative;
-    margin-bottom: 3em;
-    }
-    /* El iframe se adapta al tamaño del contenedor */
-    iframe{
-    margin-top: 2em;
-    position:absolute;
-    height:100%;
-    width:100%;
-    top:0px;
-    left:0px;
-    margin-bottom: 2em;
-    }
-  
-
+.container-prueba{
+  margin-top: 1em;
+}
+  video {
+    padding: 2em;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+  }
   
 
 /*-------------------------RESPONSIVE SLIDER--------------------------*/
 
 
 @media screen and (max-width: 550px) {
-  .delimitador{
-    margin-top: 2em;
-    width:400px;
-    margin:auto;
-    margin-bottom: 3em;
-    }
-    /* El contenedor con el padding-top crea el tamaño del vídeo */
-    .contenedor{
-    height:0px;
-    width:100%;
-    max-width:1060px; /* Así establecemos el ancho máximo (si lo queremos) */
-    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
-    position:relative;
-    margin-bottom: 3em;
-    }
-    /* El iframe se adapta al tamaño del contenedor */
-    iframe{
-    margin-top: 2em;
-    position:absolute;
-    height:100%;
-    width:100%;
-    top:0px;
-    left:0px;
-    margin-bottom: 2em;
-    }
+  
   
 }
 
