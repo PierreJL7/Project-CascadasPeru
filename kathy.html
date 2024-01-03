@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=s, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        /* Give the document some structure. */
+body {
+	margin: 0 auto;	
+	max-width: 948px;
+}
+
+/* Create a responsive, centered, three-column grid. */
+.card-container {
+	align-items: start;
+	display: grid;
+	grid-gap: 16px;
+	grid-template-columns: repeat(auto-fit, 300px);
+	justify-content: center;
+}
+
+
+
+
+body {
+	font-family: sans-serif;
+}
+
+header,
+footer {
+	text-align: center;
+}
+
+.card {
+	background-color: orangered;
+	border-radius: 5px;
+	color: white;
+	padding: 24px 0 16px;
+	text-align: center;
+	text-shadow: 1px 1px 0 #555;
+}
+
+.fas {
+	font-size: 50px;
+}
+
+
+
+    </style>
+    <header>
+        <h1> CSS Grid: A simple, responsive, three-column grid with cards</h1>
+    </header>
+    
+    <section class="card-container">
+    
+        <div class="card">
+            <i class="fas fa-paint-brush"></i>
+            <h1>Card #1</h1>
+            <p>This is the first card.</p>
+        </div>
+    
+        <div class="card">
+            <i class="fas fa-desktop"></i>
+            <h1>Card #2</h1>
+            <p>This is the second card.</p>
+        </div>
+    
+        <div class="card">
+            <i class="fas fa-handshake"></i>
+            <h1>Card #3</h1>
+            <p>This is the third card.</p>
+        </div>
+        
+        <div class="card">
+            <i class="fas fa-address-book"></i>
+            <h1>Card #4</h1>
+            <p>This is the fourth card.</p>
+        </div>
+    
+        <div class="card">
+            <i class="fas fa-chess"></i>
+            <h1>Card #5</h1>
+            <p>This is the fifth card.</p>
+        </div>
+    
+        <div class="card">
+            <i class="fas fa-bug"></i>
+            <h1>Card #6</h1>
+            <p>This is the sixth card.</p>
+        </div>
+    
+    </section>
+    
+    <footer>
+        <p><em><small>Psst... go ahead and squish your browser!</small></em></p>
+    </footer>
+    
+</body>
+</html>

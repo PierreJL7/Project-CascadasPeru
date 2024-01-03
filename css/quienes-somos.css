@@ -11,7 +11,7 @@
     text-align: center;
     height: 50px;
     font-size: 40.5px;
-    background: url(./img/FONDO-TITLE.jpg);
+    background: url(../img/FONDO-TITLE.jpg);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-top: 20px;
