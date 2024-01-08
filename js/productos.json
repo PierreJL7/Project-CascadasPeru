@@ -67,98 +67,57 @@
             "id": "reboses"
         },
         "precio": "S/. 7000"
+    },
+    {
+        "id": "rebose-07",
+        "titulo": "Rebose de Acero para velo de agua 90°",
+        "marca": "Marca: Decors Smart",
+        "medida": "Medidas desde: 40 cm. hasta 2 m.",
+        "imagen": "https://i0.wp.com/www.cascadasperu.com/wp-content/uploads/2021/07/rebose-muro-lloron-1.jpg?fit=1000%2C1000&ssl=1",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 608.88 - S/. 1,934.00"
+    },
+    {
+        "id": "rebose-08",
+        "titulo": "Rebose de Acero para velo de agua 45°",
+        "marca": "Marca: Decors Smart",
+        "medida": "Medidas desde: 40 cm. hasta 2 m.",
+        "imagen": "./img/reboses/rebose-45.png",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 608.88 - S/. 1,934.00"
+    },
+    {
+        "id": "rebose-09",
+        "titulo": "Válvula de Acero Inoxidable",
+        "marca": "Marca: Decors Smart",
+        "medida": "Medidas desde: 40 cm. hasta 2 m.",
+        "imagen": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/398004246_815806950546975_6208885524433332372_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeE0reiS6dGPNJMhMwnllo8bkTsf4dUXPKeROx_h1Rc8p6Yanl6LlNVEEhWfah-nOJ9sI-T9ml5IGakKMgQKq5Hm&_nc_ohc=OCfwbJjxfwQAX9-CDhj&_nc_ht=scontent-lim1-1.xx&oh=00_AfBW_zfs3kvKhG4K2c7wicm7ueaHo5baTdJghK47lwRIVg&oe=65A1628F",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 608.88 - S/. 1,934.00"
+    },
+    {
+        "id": "rebose-10",
+        "titulo": "Rebose de Acero Muro Lloron de Vidrio",
+        "marca": "Marca: Decors Smart",
+        "medida": "Medidas desde: 40 cm. hasta 2 m.",
+        "imagen": "https://i0.wp.com/www.cascadasperu.com/wp-content/uploads/2021/07/rebose-muro-lloron-2.jpg?fit=1000%2C1000&ssl=1",
+        "categoria": {
+            "nombre": "Reboses",
+            "id": "reboses"
+        },
+        "precio": "S/. 608.88 - S/. 1,934.00"
     }
-    ,
-
-
-    {
-        "id": "fachaleta-01",
-        "titulo": "Fachaleta de Piedra Cuadrado x m2",
-        "descripcion":"Medida por Piedra Cuadrado: 15cm x 60cm",
-        "imagen": "./img/fachaletas/01-fachaleta-piedra-cuadrado.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 220"
-    },
-    {
-        "id": "fachaleta-02",
-        "titulo": "Fachaleta Madera de Cubo x m2",
-        "descripcion":"Medida por Madera de Cubo: 15cm x 60cm",
-        "imagen": "./img/fachaletas/02-fachaleta-madera-cubo.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 328"
-    },
-    {
-        "id": "fachaleta-03",
-        "titulo": "Fachaleta de Piedra Arequipeña x m2",
-        "descripcion":"Medida por Piedra Arequipeña: 15cm x 60cm",
-        "imagen": "./img/fachaletas/03-fachaleta-piedra-arequipena.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 200"
-    },
-    {
-        "id": "fachaleta-04",
-        "titulo": "Fachaleta de Piedra Ayacuchana x m2",
-        "descripcion":"Medida por Piedra Ayacuchana: 15cm x 60cm",
-        "imagen": "./img/fachaletas/04-fachaleta-piedra-ayacuchana.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 200"
-    },
-    {
-        "id": "fachaleta-05",
-        "titulo": "Fachaleta de Piedra Pizarra x m2",
-        "descripcion":"Medida por Piedra Pizarra: 15cm x 60cm",
-        "imagen": "./img/fachaletas/05-fachaleta-piedra-pizarra.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 200"
-    },
-    {
-        "id": "fachaleta-06",
-        "titulo": "Fachaleta Modelo Brick x m2",
-        "descripcion":"Medida por Ladrillo Brick Rococho: 20cm x 60cm",
-        "imagen": "./img/fachaletas/06-fachaleta-modelo-brick.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 183"
-    },  
-    {
-        "id": "fachaleta-07",
-        "titulo": "Fachaleta Concreto Estilo Madera x m2",
-        "descripcion":"Medida por Concreto Madera: 15cm x 60cm",
-        "imagen": "./img/fachaletas/07-fachaleta concreto-estilo-madera.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 138"
-    },  
-    {
-        "id": "fachaleta-08",
-        "titulo": "Fachaleta Concreto Estilo Cambat x m2",
-        "descripcion":"Medida por Concreto Cambat: 15cm x 60cm",
-        "imagen": "./img/fachaletas/08-fachaleta-concreto-cambat.png",
-        "categoria": {
-            "nombre": "Fachaletas",
-            "id": "fachaletas"
-        },
-        "precio": "S/. 138"
-    },  
+    
+    ,  
     {
         "id": "luces-RGB-01",
         "titulo": "Luz Sumergible de Acero Inoxidable RGB",
@@ -254,277 +213,259 @@
     },
     {
         "id": "bomba-03",
-        "titulo": "Electrobomba Max Flo Smart",
+        "titulo": "ELECTROBOMBA HCP 4000, 5.5 HP TRIFÁSICA 4'', HCP40553, HAYWARD",
         "marca": "Marca: Hayward",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1HP",
+        "descripcion":"Dimensiones: 86.87 cm. Profundidad x 35.56 cm. Ancho x 58.42 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-hcp-4000-7-5-hp-trifasica-4-hcp-40753-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 9,722.00"
+    },
+    {
+        "id": "bomba-04",
+        "titulo": "ELECTROBOMBA HCP 4000, 7.5 HP TRIFÁSICA 4'', HCP40753, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 91.44 cm. Profundidad x 35.56 cm. Ancho x 58.42 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-hcp-4000-7-5-hp-trifasica-4-hcp-40753-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 10,139.00"
+    },
+    {
+        "id": "bomba-05",
+        "titulo": "ELECTROBOMBA HCP3000, 3.0 HP MONOFASICA, HCP30301, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 80.67 cm. Profundidad x 32.41 cm. Ancho x 35.45 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-hcp-3000-3-0hp-monofasica-hcp30301-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 2,500.00"
+    },
+    {
+        "id": "bomba-06",
+        "titulo": "ELECTROBOMBA HCP3000, 3.0 HP TRIFASICO, HCP30303, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 80.67 cm. Profundidad x 24.61 cm. Ancho x 35.45 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-hcp-3000-3-0hp-trifasico-hcp30303-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 2,500.00"
+    },
+    {
+        "id": "bomba-07",
+        "titulo": "ELECTROBOMBA MAXFLO 1 HP E/S 1 ½'', SP2807X10, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 56.22 cm. Profundidad x 21.92 cm. Ancho x 28.70 cm. Alto",
         "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1hp-es-sp2807x10-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 722.00"
-    },
-    {
-        "id": "bomba-04",
-        "titulo": "Electrobomba Max Flo Smart",
-        "marca": "Marca: Hayward",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1.5HP",
-        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1-5-hp-sp2810x15expm-hayward_thumb.webp",
-        "categoria": {
-            "nombre": "Bombas",
-            "id": "bombas"
-        },
-        "dolar": "$/. 1042.00"
-    },
-    {
-        "id": "bomba-05",
-        "titulo": "Electrobomba Max Flo Smart",
-        "marca": "Marca: Hayward",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 2HP",
-        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1-5-hp-sp2810x15expm-hayward_thumb.webp",
-        "categoria": {
-            "nombre": "Bombas",
-            "id": "bombas"
-        },
-        "dolar": "$/. 1222.00"
-    },
-    {
-        "id": "bomba-06",
-        "titulo": "Electrobomba Swimpro Smart",
-        "marca": "Marca: Hayward",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1/2HP",
-        "imagen": "https://falabella.scene7.com/is/image/Falabella/6743056_1?wid=800&hei=800&qlt=70",
-        "categoria": {
-            "nombre": "Bombas",
-            "id": "bombas"
-        },
-        "dolar": "$/. 278.00"
-    },
-    {
-        "id": "bomba-07",
-        "titulo": "Electrobomba Swimpro Smart",
-        "marca": "Marca: Hayward",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1HP",
-        "imagen": "https://falabella.scene7.com/is/image/Falabella/6743056_1?wid=800&hei=800&qlt=70",
-        "categoria": {
-            "nombre": "Bombas",
-            "id": "bombas"
-        },
-        "dolar": "$/. 347.00"
+        "precio": "$/. 722.00"
     },
     {
         "id": "bomba-08",
-        "titulo": "Electrobomba Veico Pro Smart",
-        "marca": "Marca: Veico",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1HP",
-        "imagen": "https://tienda.saamiseg.com/846-large_default/veico-pro-100-astralpool-1hp-monof.jpg",
+        "titulo": "ELECTROBOMBA MAXFLO 1.5 HP E/S 1 ½'', SP2810X15, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 59.08 cm. Profundidad x 21.92 cm. Ancho x 28.70 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-1-5-hp-sp2810x15expm-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 435.00"
+        "precio": "$/. 1,042.00"
     },
     {
         "id": "bomba-09",
-        "titulo": "Electrobomba Veico Pro Smart",
-        "marca": "Marca: Veico",
-        "medida": "Descarga e Ingreso: 1.5'' ",
-        "descripcion":"Potencia: 1.5HP",
-        "imagen": "https://tienda.saamiseg.com/846-large_default/veico-pro-100-astralpool-1hp-monof.jpg",
+        "titulo": "ELECTROBOMBA MAXFLO 2 HP E/S 1 ½'' , SP2815X20, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 60.35 cm. Profundidad x 21.92 cm. Ancho x 28.70 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-2hp-es1-1-2-sp2815x20-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 472.00"
+        "precio": "$/. 1,222.00"
     },
     {
         "id": "bomba-10",
-        "titulo": "Electrobomba para piscina Smart modelo 5F-M2 SUC",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
-        "descripcion":"Potencia: 0.5HP",
-        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-jacuzzi-5f-m-0-5-hp-monofasico.jpg",
+        "titulo": "ELECTROBOMBA MAXFLO VS500, SP23520VSP, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 65.76 cm. Profundidad x 24.61 cm. Ancho x 28.35 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-max-flo-vs500-sp23520vsp-hayward-2044.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 410.00"
+        "precio": "$/. 15,258.00"
     },
     {
         "id": "bomba-11",
-        "titulo": "Electrobomba para piscina Smart modelo 1F-M2 SUC",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
-        "descripcion":"Potencia: 1.0HP",
-        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-jacuzzi-5f-m-0-5-hp-monofasico.jpg",
+        "titulo": "ELECTROBOMBA MAXFLO XL, 1.5 HP E/S 1 ½'', SP2310X15, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 56.22 cm. Profundidad x 21.92 cm. Ancho x 28.70 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-xl-1-5hp-es-1-sp2310x15-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 420.00"
+        "precio": "$/. 722.00"
     },
     {
         "id": "bomba-12",
-        "titulo": "Electrobomba para piscina Smart modelo 7A-M SUC",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
-        "descripcion":"Potencia: 0.75HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA MAXFLO XL, 1HP E/S 1 ½'', SP2307X10, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 62.13 cm. Profundidad x 24.61 cm. Ancho x 28.37 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-xl-1-5hp-es-1-sp2310x15-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 470.00"
+        "precio": "$/. 903.00"
     },
     {
         "id": "bomba-13",
-        "titulo": "Electrobomba para piscina Smart modelo 1A-M SUC",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 1 1/2 x 1 1/2",
-        "descripcion":"Potencia: 1.0 HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA MAXFLO XL, 2 HP E/S 1½'', SP2315X20, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 64.67 cm. Profundidad x 24.61 cm. Ancho x 28.37 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-xl-2hp-es-1-sp2315x20-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 499.00"
+        "precio": "$/. 1,181.00"
     },
     {
         "id": "bomba-14",
-        "titulo": "Electrobomba para piscina monofásica Smart, Modelo 15B-M",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 2'' x 2''",
-        "descripcion":"Potencia: 1.5 HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA MAXFLO XL, ¾ HP, SP2305X7, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 59.95 cm. Profundidad x 24.61 cm. Ancho x 28.37 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-xk-3-4hp-sp2305x7-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 590.00"
+        "precio": "$/. 826.00"
     },
     {
         "id": "bomba-15",
-        "titulo": "Electrobomba para piscina trifásica Smart, Modelo 15B-T",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 2'' x 2''",
-        "descripcion":"Potencia: 1.8 HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA MAXFLO ¾ HP E/S 1 ½'', SP2805X7, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 55.27 cm. Profundidad x 21.92 cm. Ancho x 28.70 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-maxflo-3-4-hp-sp2805x7-hayward-2.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 585.00"
+        "precio": "$/. 750.00"
     },
     {
         "id": "bomba-16",
-        "titulo": "Electrobomba para piscina monofásica Smart, Modelo 2B-M",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 2'' x 2''",
-        "descripcion":"Potencia: 2.0 HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA SUPER II, 2.5 HP E/S 2'', SP3020X25AZ, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 65.90 cm. Profundidad x 23.81 cm. Ancho x 31.00 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-sp3020x25321.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 729.00"
+        "precio": "$/. 1,806.00"
     },
     {
         "id": "bomba-17",
-        "titulo": "Electrobomba para piscina trifásica Smart, Modelo 2B-T",
-        "marca": "Marca: Jacuzzi",
-        "medida": "Succión y Descarga: 2'' x 2''",
-        "descripcion":"Potencia: 2.0 HP",
-        "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120376744_2645030_1?wid=800&hei=800&qlt=70",
+        "titulo": "ELECTROBOMBA SUPER II, 3 HP MONOFASICA E/S 2'', SP3025X30AZIM",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 68.90 cm. Profundidad x 23.81 cm. Ancho x 31.00 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-super-ll-3hp-monofasica-es-2-sp3025x30azim-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 675.00"
+        "precio": "$/. 2,361.00"
     },
     {
         "id": "bomba-18",
-        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP756",
-        "marca": "Marca: Ncole Pool",
-        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
-        "descripcion":"Potencia: 1.0 HP",
-        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "titulo": "ELECTROBOMBA SUPER II, 3 HP TRIFASICA E/S 2'', SP303063AZ",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 60.63 cm. Profundidad x 23.81 cm. Ancho x 31.00 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-super-ii-3hp-trifasica-e-s-2-sp303063az-hayward.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 226.00"
+        "precio": "$/. 2,361.00"
     },
     {
         "id": "bomba-19",
-        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP1106",
-        "marca": "Marca: Ncole Pool",
-        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
-        "descripcion":"Potencia: 1.5 HP",
-        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "titulo": "ELECTROBOMBA SUPER PUMP 700, 1.5 HP 1 ½'', SP2670010X15EXP, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 58.50 cm. Profundidad x 21.91 cm. Ancho x 28.00 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-super-pump-700-15hp-sp2670010x15xp-hayward-2.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 240.00"
+        "precio": "$/. 1,069.00"
     },
     {
         "id": "bomba-20",
-        "titulo": "Electrobomba para piscina monofásica Smart, Modelo XKP1606",
-        "marca": "Marca: Ncole Pool",
-        "medida": "Succión y Descarga: 1 1/2'' x 1 1/2''",
-        "descripcion":"Potencia: 2.0 HP",
-        "imagen": "https://hidrocentrolima.com/wp-content/uploads/2022/07/Electrobomba-ncole-xkp556-0-75-hp-monofasico.jpg",
+        "titulo": "ELECTROBOMBA SUPER PUMP, 1 HP E/S 1 ½'', SP2607X10M, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 61 cm. Profundidad x 21.9 cm. Ancho x 27.6 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-super-pump-1hp-e-s-1-1-2-sp2607x10m-hayward-325.webp",
         "categoria": {
             "nombre": "Bombas",
             "id": "bombas"
         },
-        "dolar": "$/. 323.00"
-    },
-
-
-    {
-        "id": "jardin-01",
-        "titulo": "Jardin Vertical Artificial Modelo Azaleas",
-        "descripcion": "Medidas: 100cm x 50cm",
-        "marca": "El precio es por m2",
-        "imagen": "./img/jardines/01-jardin-azalea.webp",
-        "categoria": {
-            "nombre": "Jardines",
-            "id": "jardines"
-        },
-        "precio": "S/. 450.00"
+        "precio": "$/. 1,041.00"
     },
     {
-        "id": "jardin-02",
-        "titulo": "Jardin Vertical Artificial Modelo Booxwoord",
-        "descripcion": "Medidas: 40cm x 60cm",
-        "marca": "El precio es por m2",
-        "imagen": "./img/jardines/02-jardin-Booxwoord.jpeg",
+        "id": "bomba-21",
+        "titulo": "ELECTROBOMBA SUPER PUMP, ¾ HP E/S 1 ½'', SP2605X7, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 60.00 cm. Profundidad x 21.91 cm. Ancho x 27.64 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-super-pump-3-4hp-es-1-1-2-sp2605x7-hayward-328.webp",
         "categoria": {
-            "nombre": "Jardines",
-            "id": "jardines"
+            "nombre": "Bombas",
+            "id": "bombas"
         },
-        "precio": "S/. 160.00"
+        "precio": "$/. 1,007.00"
+    },
+    {
+        "id": "bomba-22",
+        "titulo": "ELECTROBOMBA SWIMPRO, 1/2 HP 1.5'', SWP1205, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 48.50 cm. Profundidad x 20.80 cm. Ancho x 26.50 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-swimpro-1-2-hp-swp1205-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 278.00"
+    },
+    {
+        "id": "bomba-23",
+        "titulo": "ELECTROBOMBA TRISTAR VS900, SP32900VSP, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion":"Dimensiones: 65.70 cm. Profundidad x 29.90 cm. Ancho x 34.42 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/electrobomba-tristar-vs900-sp32900vsp-hayward.webp",
+        "categoria": {
+            "nombre": "Bombas",
+            "id": "bombas"
+        },
+        "precio": "$/. 2,041.00"
     }
+    
     ,
-    {
-        "id": "jardin-03",
-        "titulo": "Jardin Vertical Artificial Modelo Lush",
-        "descripcion": "Medidas: 50cm x 50cm",
-        "marca": "El precio es por m2",
-        "imagen": "./img/jardines/03-jardin-lush.jpg",
-        "categoria": {
-            "nombre": "Jardines",
-            "id": "jardines"
-        },
-        "precio": "S/ 380.00"
-    },
+    
     {
         "id": "empotrable-01",
         "titulo": "Desnatador para piscina",
@@ -771,6 +712,206 @@
         "dolar": "$/. 399.00"
     },
     {
+        "id": "robot-01",
+        "titulo": "AQUANAUT 250, ROBOT DE LIMPIEZA A SUCCION, PBS22CST (40m2), HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 86 cm. Profundidad x 47 cm. Ancho x 47 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/robot-aquanaut250-limpiador-2147.webp",
+        "categoria": {
+            "nombre": "Robots",
+            "id": "robots"
+        },
+        "dolar": "$/. 1,071.00"
+    },
+    {
+        "id": "robot-02",
+        "titulo": "AQUAVAC 250Li, ROBOT INALÁMBRICO DE LIMPIEZA, RCH200CU (40m2), HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: Largo: 51 cm. Ancho: 37 cm Altura: 37 cm",
+        "imagen": "https://www.fegasa.com.pe/img/productos/robot-aquavac250-limpiapiscinas-2148.webp",
+        "categoria": {
+            "nombre": "Robots",
+            "id": "robots"
+        },
+        "dolar": "$/. 683.00"
+    },
+    {
+        "id": "robot-03",
+        "titulo": "ROBOT DE LIMPIEZA PROGRAMABLE CON WIFI, AQUAVAC 650, (6X12) RCH651CUY, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 19.50 kg",
+        "imagen": "https://www.fegasa.com.pe/img/productos/robot-de-limpieza-programable-cwifi-aquavac-650-6x12-rch651cuy-hayward.webp",
+        "categoria": {
+            "nombre": "Robots",
+            "id": "robots"
+        },
+        "dolar": "$/. 2,727.00"
+    }
+    
+    ,
+    
+    {
+        "id": "fachaleta-01",
+        "titulo": "Fachaleta de Piedra Cuadrado x m2",
+        "descripcion":"Medida por Piedra Cuadrado: 15cm x 60cm",
+        "imagen": "./img/fachaletas/01-fachaleta-piedra-cuadrado.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 220"
+    },
+    {
+        "id": "fachaleta-02",
+        "titulo": "Fachaleta Madera de Cubo x m2",
+        "descripcion":"Medida por Madera de Cubo: 15cm x 60cm",
+        "imagen": "./img/fachaletas/02-fachaleta-madera-cubo.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 328"
+    },
+    {
+        "id": "fachaleta-03",
+        "titulo": "Fachaleta de Piedra Arequipeña x m2",
+        "descripcion":"Medida por Piedra Arequipeña: 15cm x 60cm",
+        "imagen": "./img/fachaletas/03-fachaleta-piedra-arequipena.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-04",
+        "titulo": "Fachaleta de Piedra Ayacuchana x m2",
+        "descripcion":"Medida por Piedra Ayacuchana: 15cm x 60cm",
+        "imagen": "./img/fachaletas/04-fachaleta-piedra-ayacuchana.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-05",
+        "titulo": "Fachaleta de Piedra Pizarra x m2",
+        "descripcion":"Medida por Piedra Pizarra: 15cm x 60cm",
+        "imagen": "./img/fachaletas/05-fachaleta-piedra-pizarra.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 200"
+    },
+    {
+        "id": "fachaleta-06",
+        "titulo": "Fachaleta Modelo Brick x m2",
+        "descripcion":"Medida por Ladrillo Brick Rococho: 20cm x 60cm",
+        "imagen": "./img/fachaletas/06-fachaleta-modelo-brick.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 183"
+    },  
+    {
+        "id": "fachaleta-07",
+        "titulo": "Fachaleta Concreto Estilo Madera x m2",
+        "descripcion":"Medida por Concreto Madera: 15cm x 60cm",
+        "imagen": "./img/fachaletas/07-fachaleta concreto-estilo-madera.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 138"
+    },  
+    {
+        "id": "fachaleta-08",
+        "titulo": "Fachaleta Concreto Estilo Cambat x m2",
+        "descripcion":"Medida por Concreto Cambat: 15cm x 60cm",
+        "imagen": "./img/fachaletas/08-fachaleta-concreto-cambat.png",
+        "categoria": {
+            "nombre": "Fachaletas",
+            "id": "fachaletas"
+        },
+        "precio": "S/. 138"
+    },
+    {
+        "id": "bomba-calor-01",
+        "titulo": "BOMBA DE CALOR 50,000 BTU, HORIZONTAL HP50HA2",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 114.05 cm Profundidad x 48 cm . Ancho x 92.20 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/btu-horizontal-hp50ha2-hayward-2.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": "$/. 3,847.00"
+    },
+    {
+        "id": "bomba-calor-02",
+        "titulo": "BOMBA DE CALOR 70,000 BTU HORIZONTAL, HP70HA2",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 122.94 cm. Profundidad x 50.04 cm. Ancho x 101.09 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/bomba-de-calor-de-70000-btu-horizontal-hp70ha2-hayward-3.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": "$/. 4,913.00"
+    },
+    {
+        "id": "bomba-calor-03",
+        "titulo": "BOMBA DE CALOR CIRCULAR 110,000BTU, HP21104T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 79.38 cm. Diámetro x 101.6 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/bomba-calor-HP21104T-84.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": "$/. 7,235.00"
+    },
+    {
+        "id": "bomba-calor-04",
+        "titulo": "BOMBA DE CALOR VEL. VARIABLE 27 000 A 97 000 BTU, HP50951T",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 107.44 cm. Profundidad x 99.57 cm. Ancho x 121.92 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/bomba-de-calor-dvelocidad-variable-inverter-hp50951t-hayward.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": " $/ 7,947.00"
+    },
+    {
+        "id": "bomba-calor-05",
+        "titulo": "BOMBA DE CALOR ELECTRICO 140,000 BTU, HP21404T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 86.36 cm. Profundidad x 76.84 cm. Ancho x 111.76 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/85-bomba-de-calor-hp21404t.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": "$/. 8,031.00"
+    },
+    {
+        "id": "bomba-calor-06",
+        "titulo": "BOMBA DE CALOR ELECTRICO 90,000 BTU, HP21004T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Medidas: 86.36 cm. Profundidad x 76.84 cm. Ancho x 93.98 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/bomba-de-calor-hp21004t-hayward.webp",
+        "categoria": {
+            "nombre": "Bomba de Calor",
+            "id": "bomba-calor"
+        },
+        "dolar": "$/. 6,201.00"
+    }
+    ,
+    {
         "id": "filtro-01",
         "titulo": "Filtro de Arena con 6 vías de conexión Modelo 15TP",
         "marca": "Marca: Jacuzzi",
@@ -886,5 +1027,314 @@
             "id": "filtros"
         },
         "dolar": "$/. 363.00"
+    },
+    {
+        "id": "filtro-10",
+        "titulo": "CLORADOR EN LINEA, 09 PASTILLAS, CL100, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 21 cm. Ancho x 38.75 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/clorador-en-linea-cl100-206.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 125.00"
+    },
+    {
+        "id": "filtro-11",
+        "titulo": "CLORADOR EN LINEA, 20 PASTILLAS, CL200, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 22.86 cm. Ancho x 37.47 cm. Alto",
+        "imagen": "https://www.fegasa.com.pe/img/productos/clorador-en-linea-20-pastillas-cl200-hayward-2.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 160.00"
+    },
+    {
+        "id": "filtro-12",
+        "titulo": "FILTRO CARTUCHO SWIMCLEAR, 150 ft², 2 X 2 ½”, C150S, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 85.76 cm. Alto x 46.40 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-swminclear-120gpm-cunion-c150s-haywad.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 1,156.00"
+    },
+    {
+        "id": "filtro-13",
+        "titulo": "FILTRO CARTUCHO SWIMCLEAR, 200 ft², 2 X 2 ½”, C200S, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 98.43 cm. Alto x 46.40 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-swimclear-de-200ft2-cunion-de-2-x-2-12-c200s-hayward-2131.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 708.00"
+    },
+    {
+        "id": "filtro-14",
+        "titulo": "FILTRO CARTUCHO, C225, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 45.40 cm. Alto x 18.42 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-c225-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 181.00"
+    },
+    {
+        "id": "filtro-15",
+        "titulo": "FILTRO CARTUCHO, C250, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 49.53 cm. Alto x 26.67 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-c250-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 61.00"
+    },
+    {
+        "id": "filtro-16",
+        "titulo": "FILTRO CARTUCHO, C500, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 74.93 cm. Alto x 26.67 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-c500-439.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 87.00"
+    },
+    {
+        "id": "filtro-17",
+        "titulo": "FILTRO CARTUCHO, C751, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 76.20 cm. Alto x 33.97 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-cartucho-c751-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 649.00"
+    },
+    {
+        "id": "filtro-18",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR 1 ½'', S270T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 67.50 cm. Alto x 107.50 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-c-valvula-superior-1-5-s270t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 896.00"
+    },
+    {
+        "id": "filtro-19",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR 2'', S270T2, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 67.50 cm. Alto x 107.50 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-cvalvula-superior-s270t2-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 979.00"
+    },
+    {
+        "id": "filtro-20",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR 2'', S310T2, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 121.92 cm. Alto x 77.47 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-cvalvula-superior-2s310t2-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 1,500.00"
+    },
+    {
+        "id": "filtro-21",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR 2'', S360T2, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 134.62 cm. Alto x 91.44 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-cvalvula-superior-2-s360t2-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 2,265.00"
+    },
+    {
+        "id": "filtro-22",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR, S166T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 83.82 cm. Alto x 41.91 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-valvula-superior-s166t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 542.00"
+    },
+    {
+        "id": "filtro-23",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR, S180T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 88.90 cm. Alto x 47.00 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-cvalvula-superiors180t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 653.00"
+    },
+    {
+        "id": "filtro-24",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR, S210T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 52.07 cm. Alto x 96.52 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-cvalvula-superior-s210t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 729.00"
+    },
+    {
+        "id": "filtro-25",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR, S220T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 104.14 cm. Alto x 57.15 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-valvulasuperior-s220t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 819.00"
+    },
+    {
+        "id": "filtro-26",
+        "titulo": "FILTRO PRO SERIES C/VALVULA SUPERIOR, S244T, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 106.68 cm. Alto x 62.23 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-valvulasuperior-s220t-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 847.00"
+    },
+    {
+        "id": "filtro-27",
+        "titulo": "FILTRO PRO SERIES PLUS (SOLO TANQUE) S360SX, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 116.84 cm. Alto x 91.44 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-pro-series-plussolo-tanque-s360sx-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 2431.00"
+    },
+    {
+        "id": "filtro-28",
+        "titulo": "FILTRO PRO SERIES PLUS (SOLO TANQUE), S311SX, HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 78.74 cm. Alto x 98.11 cm. Ancho",
+        "imagen": "https://www.fegasa.com.pe/img/productos/eries-plus-solotanque-s311sx-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 1681.00"
+    },
+    {
+        "id": "filtro-29",
+        "titulo": "FILTRO SWIMPRO C/VALVULA SUPERIOR, VL210T, PRO-HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 75.00 cm. Alto x 52.00 cm. Diámetro",
+        "imagen": "https://www.fegasa.com.pe/img/productos/cvalvula-superior-vl210t-pro-hayward-thumb.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 354.00"
+    },
+    {
+        "id": "filtro-30",
+        "titulo": "FILTRO SWIMPRO C/VALVULA SUPERIOR, VL240T, PRO-HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 86.00 cm. Alto x 60.00 cm. Diámetro",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-swimpro-cvalvula-superior-vl240t-pro-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 431.00"
+    },
+    {
+        "id": "filtro-31",
+        "titulo": "FILTRO SWIMPRO C/VALVULA SUPERIOR, VL270T, PRO-HAYWARD",
+        "marca": "Marca: Hayward",
+        "descripcion": "Dimensiones: 91.00 cm. Alto x 68.50 cm. Diámetro",
+        "imagen": "https://www.fegasa.com.pe/img/productos/filtro-swimpro-cvalvula-superior-vl270t-pro-hayward.webp",
+        "categoria": {
+            "nombre": "Filtros",
+            "id": "filtros"
+        },
+        "dolar": "$/. 472.00"
+    }
+    
+    
+    
+    
+    
+
+
+    ,
+    {
+        "id": "jardin-01",
+        "titulo": "Jardin Vertical Artificial Modelo Azaleas",
+        "descripcion": "Medidas: 100cm x 50cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/01-jardin-azalea.webp",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/. 450.00"
+    },
+    {
+        "id": "jardin-02",
+        "titulo": "Jardin Vertical Artificial Modelo Booxwoord",
+        "descripcion": "Medidas: 40cm x 60cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/02-jardin-Booxwoord.jpeg",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/. 160.00"
+    }
+    ,
+    {
+        "id": "jardin-03",
+        "titulo": "Jardin Vertical Artificial Modelo Lush",
+        "descripcion": "Medidas: 50cm x 50cm",
+        "marca": "El precio es por m2",
+        "imagen": "./img/jardines/03-jardin-lush.jpg",
+        "categoria": {
+            "nombre": "Jardines",
+            "id": "jardines"
+        },
+        "precio": "S/ 380.00"
     }
 ]
